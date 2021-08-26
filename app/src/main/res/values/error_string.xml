@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_err_bluetooth_granted">BLUETOOTH PERMISSION GRANTED</string>
+    <string name="permission_err_bluetooth_denied">BLUETOOTH PERMISSION DENIED</string>
+    <string name="permission_err_bluetooth_admin_granted">BLUETOOTH-ADMIN PERMISSION GRANTED</string>
+    <string name="permission_err_bluetooth_admin_denied">BLUETOOTH-ADMIN PERMISSION DENIED</string>
+</resources>
